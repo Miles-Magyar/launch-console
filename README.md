@@ -1,3 +1,4 @@
+![status](https://img.shields.io/badge/status-building-blue)
 # launch-console
 
 ## Day 1 at my startup
